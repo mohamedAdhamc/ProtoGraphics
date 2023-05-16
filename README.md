@@ -16,5 +16,5 @@ Everyone is welcome to helping with project. You can either pick one of the open
 contact me and I will be happy to discuss things with you :).
 
 note:  
-The program is still in its very early stages. Once there is an actual working phase reached I will make the first 
-release.
+The program is still in a very early pre-prototype stage. Time is hard to find right now as I am juggling 
+multiple things. But eventually We will get there xD.
