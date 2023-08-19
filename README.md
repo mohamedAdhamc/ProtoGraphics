@@ -1,4 +1,7 @@
 # ProtoGraphics  
+
+**Note: this project is delayed as of now until I am able to provide more time to it**
+
 **Brief Description:**    
 
 A simple program for drawing graphics and exporting to various image formats.  
